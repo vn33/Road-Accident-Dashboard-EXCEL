@@ -25,14 +25,13 @@ The Road Accident Dashboard is an Excel-based project created to offer a detaile
     git clone https://github.com/your-username/road-accident-dashboard-excel.git
     ```
 
-2. Open the Excel file (`Road Accident Data.xlsx`) to access the dashboard.
+2. Open the Excel file (`Road Accident Data.xlsx`) to access the dashboard (check in master barnch ).
 
 ## Usage
 
 1. Open the Excel file to access the dashboard.
 2. Navigate through different sheets and tabs to explore various aspects of road accident data.
 3. Utilize filters and sorting options to customize your analysis.
-4. Refer to the documentation (if available) for additional guidance on using specific features.
 
 ## Contributing
 
