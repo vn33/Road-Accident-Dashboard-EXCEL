@@ -1,5 +1,5 @@
 # Road-Accident-Dashboard-EXCEL
-
+![Road Accident Dashboard](https://github.com/vn33/Road-Accident-Dashboard-EXCEL/blob/master/dashboard.jpg)
 ## Overview
 
 The Road Accident Dashboard is an Excel-based project created to offer a detailed and visual representation of road accident data. This dashboard aims to assist users in analyzing and understanding trends, patterns, and statistics related to road accidents.
